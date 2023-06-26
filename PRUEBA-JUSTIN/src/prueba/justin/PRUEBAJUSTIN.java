@@ -10,5 +10,7 @@ public class PRUEBAJUSTIN {
         System.out.println("Esto es una prueba");
         System.out.println("Esto es la segunda prueba");  
         System.out.println("Esto es la tercer prueba");  
+        
+        int numero =10;
     }
 }
